@@ -1,2 +1,3 @@
 # dia-primeiro-desafio
-desafio dia
+# desafio da formação full stack do *Dio*
+
